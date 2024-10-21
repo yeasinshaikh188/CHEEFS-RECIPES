@@ -11,6 +11,9 @@ const Cards = ({handleCook}) => {
         .then(data =>setCards(data))
         .catch(error => console.error(error)); 
     },[])
+
+
+
     return (
         <div className='w-full md:w-[66%]'>
             <h1 className='text-4xl font-bold my-16 text-center'>Our Recpies</h1>

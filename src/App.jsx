@@ -6,6 +6,7 @@ import Navbar from './components/Navbar/Navbar'
 import Hero from './components/Hero/Hero'
 import Cards from './components/Cards/Cards'
 import Calories from './components/Calories/Calories'
+import Footer from './components/Footer/Footer'
 
 function App() {
   const [calories, setCalories] = useState([]);
@@ -22,6 +23,7 @@ function App() {
     <Cards handleCook={handleCook}></Cards>
     <Calories calories={calories}></Calories>
     </div>
+    <Footer></Footer>
     </>
   )
 }

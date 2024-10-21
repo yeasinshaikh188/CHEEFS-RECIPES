@@ -1,6 +1,8 @@
+import { useState } from "react";
+
 const Calori = ({calori}) => {
-    
-    const {header, calories, minute} = calori; 
+    const {header, calories, minute, id} = calori; 
+
     return (
         <div>
             <div>
@@ -15,6 +17,7 @@ const Calori = ({calori}) => {
             <p className="text-xs font-bold">{calories}<br /> calories </p>
             </div>
             </div>
+            
         </div>
     );
 };

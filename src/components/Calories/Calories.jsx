@@ -10,6 +10,7 @@ const Calories = ({calories}) => {
             {
                 calories.map(calori  => <Calori calori={calori}></Calori>)
             }
+            
         </div>
     );
 };
