@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "header": "Healthy Salad",
+      "imageUrl": "https://i.ibb.co.com/grFNzbt/noudles.png",
+      "calories": 150,
+      "minute": 10,
+      "description": "A light and nutritious salad packed with fresh vegetables."
+    },
+    {
+      "id": 2,
+      "header": "Fresh Green Salad",
+      "imageUrl": "https://i.ibb.co.com/FXqqfgJ/salat.png",
+      "calories": 200,
+      "minute": 8,
+      "description": "A refreshing green salad perfect for summer meals."
+    },
+    {
+      "id": 3,
+      "header": "Spicy Noodles",
+      "imageUrl": "https://i.ibb.co.com/grFNzbt/noudles.png",
+      "calories": 400,
+      "minute": 15,
+      "description": "Delicious noodles with a spicy twist for noodle lovers."
+    },
+    {
+      "id": 4,
+      "header": "Healthy Salad",
+      "imageUrl": "https://i.ibb.co.com/grFNzbt/noudles.png",
+      "calories": 150,
+      "minute": 10,
+      "description": "A light and nutritious salad packed with fresh vegetables."
+    },
+    {
+      "id": 5,
+      "header": "Fresh Green Salad",
+      "imageUrl": "https://i.ibb.co.com/FXqqfgJ/salat.png",
+      "calories": 200,
+      "minute": 8,
+      "description": "A refreshing green salad perfect for summer meals."
+    },
+    {
+      "id": 6,
+      "header": "Spicy Noodles",
+      "imageUrl": "https://i.ibb.co.com/grFNzbt/noudles.png",
+      "calories": 400,
+      "minute": 15,
+      "description": "Delicious noodles with a spicy twist for noodle lovers."
+    }
+  ]
+  
